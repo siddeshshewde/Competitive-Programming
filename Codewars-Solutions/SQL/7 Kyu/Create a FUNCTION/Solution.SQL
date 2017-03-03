@@ -1,0 +1,3 @@
+CREATE OR REPLACE FUNCTION increment (i integer) RETURNS integer
+AS 'SELECT i +1'
+LANGUAGE SQL;
