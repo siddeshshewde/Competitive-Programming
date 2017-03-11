@@ -1,10 +1,10 @@
 https://www.codingame.com/ide/puzzle/onboarding
 
-Goal
+`Goal`
 
 Your program must destroy the enemy ships by shooting the closest enemy on each turn.
 
-Rules
+`Rules`
 
 On each start of turn (within the game loop), you obtain information on the two closest enemies:
 1. enemy1 and dist1: the name and the distance to enemy 1.
