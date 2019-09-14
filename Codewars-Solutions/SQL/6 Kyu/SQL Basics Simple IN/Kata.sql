@@ -1,0 +1,12 @@
+SELECT 
+	ID,
+  	NAME
+FROM
+  	DEPARTMENTS
+WHERE 
+  	ID IN 
+  	(
+    	SELECT DEPARTMENT_ID 
+    	FROM SALES
+    	WHERE PRICE > 98.00
+  	)
