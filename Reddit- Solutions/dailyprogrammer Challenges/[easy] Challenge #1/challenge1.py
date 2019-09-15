@@ -9,6 +9,6 @@ username = input("Reddit Username : ")
 print ("Your name is " +name+ ", you are " +age+ " years old, and your Reddit Username is " +username)
 
 #opening the text file and appending text
-f = open("test.txt","a+")
+f = open("people_I_hacked.txt","a+")
 f.write("\nYour name is " +name+ ", you are " +age+ " years old, and your Reddit Username is " +username)
 f.close()
