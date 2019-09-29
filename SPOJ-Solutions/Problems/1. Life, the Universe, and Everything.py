@@ -1,5 +1,4 @@
 """
-
 #https://www.spoj.com/problems/TEST
 
 # 1. Life, the Universe, and Everything
@@ -24,8 +23,6 @@ Output:
 1
 2
 88
-
-
 """
 
 a = int(input())
