@@ -1,6 +1,7 @@
+<!--- 
 #https://www.spoj.com/problems/TEST
 
-1. Life, the Universe, and Everything
+# 1. Life, the Universe, and Everything
 
 
 Problem:
@@ -24,7 +25,7 @@ Output:
 88
 
 
-"""
+--->
 
 a = int(input())
 
