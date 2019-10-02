@@ -1,9 +1,10 @@
-# If you're faced with an input box, like this:
+#https://www.codewars.com/kata/unwanted-dollars/train/python
+# Unwanted Dollars
 
+# If you're faced with an input box, like this:
                                              +--------------+
 #   Enter the price of the item, in dollars: |              |
-                                             +--------------+
-                                             
+                                             +--------------+                                            
 # do you put the $ sign in, or not? Inevitably, some people will type a $ sign and others will leave it out. The instructions could be made clearer - but that won't help those annoying people who never read instructions anyway.
 
 # A better solution is to write code that can handle the input whether it includes a $ sign or not.
