@@ -1,22 +1,5 @@
 # AccountBalance
 
-Problem      : AccountBalance  
-Used In      : SRM 288  
-Date         : 02.08.2006  
-Category     : Simple Math, String Parsing  
-Division     : 2  
-Level        : 1  
-Round        : 1  
-Points       : 250  
-Difficulty   : Easy  
-Problem Type : Single  
-Description  : https://community.topcoder.com/stat?c=problem_statement&pm=6036  
- 
-Class Name   : AccountBalance  
-Method Name  : processTransactions   
-Return Type  : Int  
-Arg Types    : (tuple (integer))  
-
 ## Problem Statement
 You are working for the financial institution TopBank, and you have been tasked with writing a module that will take an initial account balance, along with a list of that day's transactions, and return the ending balance for the day.
 
