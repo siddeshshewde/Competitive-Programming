@@ -39,7 +39,6 @@ Method signature: int processTransactions(int startingBalance, String[] transact
 Time limit (s): 840.000  
 Memory limit (MB): 64
 
-
 ## Constraints
 -	startingBalance will be between 0 and 1000000, inclusive.
 -	transactions will have between 0 and 50 elements, inclusive.
@@ -74,7 +73,6 @@ without the prior written consent of TopCoder, Inc. is strictly prohibited. (c)2
 
 """
 
-
 #Solution
 class AccountBalance:
 	def processTransactions(balance, transactions):
@@ -85,7 +83,6 @@ class AccountBalance:
 		return balance	
 
 # Points Received - 75.57
-
 
 #Split Function:
 #	split() function returns a list of strings after breaking the given string by the specified separator.
