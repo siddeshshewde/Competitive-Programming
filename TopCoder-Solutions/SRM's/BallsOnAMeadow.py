@@ -1,18 +1,14 @@
-# Correct the description Link and Category
-
-
-
 # Problem      : BallsOnAMeadow
 # Used In      : SRM 769
 # Date         : 10.19.2019
-# Category     : Simple Math, String Manipulation
+# Category     : Simple Search, Iteration
 # Division     : 2
 # Level        : 1
 # Round        : 1  
 # Points       : 250
 # Difficulty   : Easy
 # Problem Type : Single
-# Description  : https://community.topcoder.com/stat?c=problem_statement&pm=1708
+# Description  : https://community.topcoder.com/stat?c=problem_statement&pm=15742
 
 # Class Name   : BallsOnAMeadow
 # Method Name  : count
